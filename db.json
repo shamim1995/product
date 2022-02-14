@@ -5,7 +5,7 @@
             "title"     : "Gold watch",
             "price"     : "80",
             "description" : "This is a good watch for men and women",
-            "category"      : "men watch",
+            "category"      : "watch",
             "brand"         : "olive",
             "photo"         : "https://pngimg.com/uploads/watches/watches_PNG101423.png"
 
@@ -16,70 +16,212 @@
             "title"     : "white watch",
             "price"     : "60",
             "description" : "This is a good watch for men and women",
-            "category"      : "women watch",
-            "brand"         : "olive",
+            "category"      : "watch",
+            "brand"         : "Rolax",
             "photo"         : "https://tse2.mm.bing.net/th?id=OIP._7vPHKn3Rm9YWsKy9dcfnAHaIq&pid=Api&P=0&w=144&h=168"
 
         },
 
         {
             "id"        : "3",
-            "title"     : "Gold watch",
+            "title"     : "Black color phone",
             "price"     : "70",
             "description" : "This is a good watch for men and women",
-            "category"      : "men watch",
-            "brand"         : "olive",
-            "photo"         : "https://gevrilgroup.com/images/sports-watches/Versace%20Mystique%20Sport%20VFG02%200013.jpg"
+            "category"      : "smart phone",
+            "brand"         : "sumsung",
+            "photo"         : "https://tse2.mm.bing.net/th?id=OIP.1uH9zxQS74Z9CPBm-6hOpQHaMe&pid=Api&P=0&w=104&h=175"
 
         },
 
         {
             "id"        : "4",
-            "title"     : "Gold watch",
+            "title"     : "White Color Phone",
             "price"     : "80",
             "description" : "This is a good watch for men and women",
-            "category"      : "men watch",
-            "brand"         : "olive",
-            "photo"         : "https://pngimg.com/uploads/watches/watches_PNG101423.png"
+            "category"      : "smart phone",
+            "brand"         : "sumsung",
+            "photo"         : "https://tse4.mm.bing.net/th?id=OIP.2ARNJsXJx80io89IuUIeywHaEc&pid=Api&P=0&w=294&h=176"
 
         },
 
         {
             "id"        : "5",
-            "title"     : "Gold watch",
+            "title"     : "Bags",
             "price"     : "80",
-            "description" : "This is a good watch for men and women",
-            "category"      : "men watch",
-            "brand"         : "olive",
-            "photo"         : "https://tse4.mm.bing.net/th?id=OIP.Lq7aijq6GF1XkTCzY-BmgwHaM9&pid=Api&P=0&w=93&h=162"
+            "description" : "This is a good Bags for men and women",
+            "category"      : "Bags",
+            "brand"         : "Lassio",
+            "photo"         : "https://n4.sdlcdn.com/imgs/i/c/d/CLASSIO-BAGS-Blue-School-Bag-SDL503546734-1-1f3dd.jpeg"
 
-        },
+        }
 
+    ],
+
+    "brands" : [
         {
-            "id"            : "6",
-            "title"         : "Gold watch",
-            "price"         : "80",
-            "description"   : "This is a good watch for men and women",
-            "category"      : "men watch",
-            "brand"         : "olive",
-            "photo"         : "https://tse3.mm.bing.net/th?id=OIP.063coDysLQ9bjbttrW6_SAHaKo&pid=Api&P=0&w=114&h=164"
-
+            "id" : "1",
+            "sumsung" :"sumsung"
+        },
+        {
+            "id" : "2",
+            "oppo" :"Oppo"
+        },
+        {
+            "id" : "3",
+            "xiaomi" :"Xiaomi"
         }
     ],
 
-    [
-        "category" :
-    ]
-    "brand" : [ 
+    "category" :[
         {
-        "rolax" : "Rolax"  
-    },
-    {
-        "breitling" : "Breitling"
-    },
-    {
-        "omega" :"Omega"
-    }
+            "id" : "1",
+            "watch" : "watch"
+        },
+        {
+            "id" : "2",
+            "smart phone" : "smart phone"
+        },
+        {
+            "id" : "3",
+            "Bags" : "bags"
+        }
+    ],
+     
+
+    "students" :[
+        {
+            "id"            : "1",
+            "name"          : "Abu sufian",
+            "father's name" : "x",
+            "Mother's name" : "Y",
+            "roll"          : "1",
+            "reg"           : "555000",
+            "photo"         :"https://www.visualsstock.com/details_watermark.php?filename=41566",
+
+            "bangla"        : "85",
+            "english"       : "52",
+            "math"          : "75",
+            "science"       : "80",
+            "social Science" : "90",
+            "religion"      : "85"
+        },
+
+        {
+            "id"            : "2",
+            "name"          : "Achem",
+            "father's name" : "x",
+            "Mother's name" : "Y",
+            "roll"          : "2",
+            "reg"           : "555001",
+            "photo"         :"https://cdn2.bigcommerce.com/server5900/f46ca/products/2499/images/12319/Grey_shorts_boys2__81589.1424800476.1280.1280.jpg?c=2",
+
+            "bangla"        : "84",
+            "english"       : "59",
+            "math"          : "45",
+            "science"       : "55",
+            "social Science" : "60",
+            "religion"      : "54"
+        },
+
+        {
+            "id"            : "3",
+            "name"          : "Shamim",
+            "father's name" : "x",
+            "Mother's name" : "Y",
+            "roll"          : "3",
+            "reg"           : "555005",
+            "photo"         :"http://c7.alamy.com/comp/EN9GYX/1-indian-kids-boy-school-student-EN9GYX.jpg",
+
+            "bangla"        : "85",
+            "english"       : "78",
+            "math"          : "75",
+            "science"       : "89",
+            "social Science" : "90",
+            "religion"      : "85"
+        },
+
+        {
+            "id"            : "4",
+            "name"          : "Nur Amin",
+            "father's name" : "x",
+            "Mother's name" : "Y",
+            "roll"          : "4",
+            "reg"           : "555008",
+            "photo"         :"https://thumbs.dreamstime.com/z/happy-school-boy-bookbag-26761366.jpg",
+
+            "bangla"        : "86",
+            "english"       : "87",
+            "math"          : "75",
+            "science"       : "90",
+            "social Science" : "70",
+            "religion"      : "85"
+        },
+
+        {
+            "id"            : "5",
+            "name"          : "Ananda",
+            "father's name" : "x",
+            "Mother's name" : "Y",
+            "roll"          : "5",
+            "reg"           : "555050",
+            "photo"         :"https://thumbs.dreamstime.com/b/happy-school-boy-10319694.jpg",
+            
+            "bangla"        : "88",
+            "english"       : "75",
+            "math"          : "65",
+            "science"       : "80",
+            "social Science" : "70",
+            "religion"      : "85"
+        }
+    ],
+
+    "devs" : [
+        {
+            "id"        : "1",
+            "name"      : "Abu sufian",
+            "age"       : "25",
+            "location"  : "Mirpur",
+            "skill"     : "Mern stack, Wordpress",
+            "photo"     : "https://media.istockphoto.com/photos/serious-young-man-picture-id168542582?k=6&m=168542582&s=612x612&w=0&h=oBduskq9wylQx12Ki4B2twH6akVTh8rlDusq8iKd1Ig="
+        },
+
+        {
+            "id"        : "2",
+            "name"      : "Nur Amin",
+            "age"       : "26",
+            "location"  : "Uttara",
+            "skill"     : "Mern stack, Ios Developer",
+            "photo"     : "https://thumbs.dreamstime.com/z/handsome-young-guy-asking-question-16067403.jpg"
+        },
+
+        {
+            "id"        : "3",
+            "name"      : "Shamim",
+            "age"       : "25",
+            "location"  : "Sherpur",
+            "skill"     : "Mern stack, Wordpress",
+            "photo"     : "http://feedinspiration.com/wp-content/uploads/2015/07/Italian-Armani-Suits.jpg"
+        },
+
+        {
+            "id"        : "4",
+            "name"      : "Anada",
+            "age"       : "28",
+            "location"  : "Mirpur",
+            "skill"     : "Mern stack",
+            "photo"     : "https://media.sciencephoto.com/image/m3400535/800wm/M3400535-Happy_elderly_man.jpg"
+        },
+
+        {
+            "id"        : "5",
+            "name"      : "Abu Sayed",
+            "age"       : "29",
+            "location"  : "Banani",
+            "skill"     : "Mern stact, Java Developer",
+            "photo"     : "http://feedinspiration.com/wp-content/uploads/2015/07/mens-style-model-fashion-dapper-suit-and-tie-suspenders.jpg"
+        }
     ]
+
+       
 
 }
