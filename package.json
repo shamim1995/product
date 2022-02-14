@@ -1,0 +1,14 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "This is a  product api",
+  "main": "index.js",
+  "scripts": {
+    "product": "json-server --watch db.json --port 5050"
+  },
+  "author": "shamim",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

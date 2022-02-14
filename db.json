@@ -1,0 +1,69 @@
+{
+    "product" : [
+        {
+            "id"        : "1",
+            "title"     : "Gold watch",
+            "price"     : "80",
+            "description" : "This is a good watch for men and women",
+            "category"      : "men watch",
+            "brand"         : "olive",
+            "photo"         : "https://pngimg.com/uploads/watches/watches_PNG101423.png"
+
+        },
+
+        {
+            "id"        : "2",
+            "title"     : "white watch",
+            "price"     : "60",
+            "description" : "This is a good watch for men and women",
+            "category"      : "women watch",
+            "brand"         : "olive",
+            "photo"         : "https://tse2.mm.bing.net/th?id=OIP._7vPHKn3Rm9YWsKy9dcfnAHaIq&pid=Api&P=0&w=144&h=168"
+
+        },
+
+        {
+            "id"        : "3",
+            "title"     : "Gold watch",
+            "price"     : "70",
+            "description" : "This is a good watch for men and women",
+            "category"      : "men watch",
+            "brand"         : "olive",
+            "photo"         : "https://gevrilgroup.com/images/sports-watches/Versace%20Mystique%20Sport%20VFG02%200013.jpg"
+
+        },
+
+        {
+            "id"        : "4",
+            "title"     : "Gold watch",
+            "price"     : "80",
+            "description" : "This is a good watch for men and women",
+            "category"      : "men watch",
+            "brand"         : "olive",
+            "photo"         : "https://pngimg.com/uploads/watches/watches_PNG101423.png"
+
+        },
+
+        {
+            "id"        : "5",
+            "title"     : "Gold watch",
+            "price"     : "80",
+            "description" : "This is a good watch for men and women",
+            "category"      : "men watch",
+            "brand"         : "olive",
+            "photo"         : "https://tse4.mm.bing.net/th?id=OIP.Lq7aijq6GF1XkTCzY-BmgwHaM9&pid=Api&P=0&w=93&h=162"
+
+        },
+
+        {
+            "id"            : "6",
+            "title"         : "Gold watch",
+            "price"         : "80",
+            "description"   : "This is a good watch for men and women",
+            "category"      : "men watch",
+            "brand"         : "olive",
+            "photo"         : "https://tse3.mm.bing.net/th?id=OIP.063coDysLQ9bjbttrW6_SAHaKo&pid=Api&P=0&w=114&h=164"
+
+        }
+    ]
+}
