@@ -65,5 +65,21 @@
             "photo"         : "https://tse3.mm.bing.net/th?id=OIP.063coDysLQ9bjbttrW6_SAHaKo&pid=Api&P=0&w=114&h=164"
 
         }
+    ],
+
+    [
+        "category" :
     ]
+    "brand" : [ 
+        {
+        "rolax" : "Rolax"  
+    },
+    {
+        "breitling" : "Breitling"
+    },
+    {
+        "omega" :"Omega"
+    }
+    ]
+
 }
